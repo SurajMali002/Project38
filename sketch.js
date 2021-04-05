@@ -19,8 +19,6 @@ let bg1, bg2, bg3, bg4, bg5, bg6;
 let font;
 //Loading Images
 function preload() {
-    alert("Be patient as it will load almost 10 MB of files, or you may also download it");
-    alert("Remove headphones or minimise it's volume");
     font = loadFont("fonts/ShriftSteamy.otf");
     firesound= loadSound("firesound.mp3");
     back = loadImage("background.png");
