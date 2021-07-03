@@ -116,7 +116,7 @@ function draw() {
 
 function keyPressed() {
     if (keyCode === 67) {
-        window.location.href = "https://github.com/sagarsaurabhssnl/PRO-C-38";
+        window.location.href = "https://github.com/SurajMali002/Project38";
     }
     if (keyCode === 82) {
         window.location.reload(false);
